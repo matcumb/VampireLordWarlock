@@ -1,3 +1,21 @@
+/*	-WHAT IS THIS?-
+	This file adds optional material to "MPMB's Character Record Sheet" found at https://flapkan.com/mpmb/charsheets
+	Import this file using the "Add Extra Materials" bookmark or the Import button in the "Extra Features" Javascript Window.
+	-KEEP IN MIND-
+	It is recommended to enter the code in a fresh sheet before adding any other information (i.e. before making your character with it).
+*/
+
+/*	-INFORMATION-
+	Subject:	Subclass and Spells
+	Effect:		This script adds a subclass for the Warlock, the "Vampire Lord" Patron
+			This is taken from the DMs Guild website (https://www.dmsguild.com/product/251979/The-Vampire-Lord-Warlock-Patron)
+			This subclass is made by Matthew Cumbo
+	Code by:	Matthew Cumbo
+	Date:		2021-12-16 (sheet v13.0.4)
+			Please support the creator of this content (Matthew Cumbo) and download their materials 
+			from the DMs Guild website: https://www.dmsguild.com/browse.php?author=Matthew%20Cumbo
+*/
+
 var iFileName = "Matthew Cumbo - Vampire Lord Warlock Patron.js";
 RequiredSheetVersion("13.0.4");
 
